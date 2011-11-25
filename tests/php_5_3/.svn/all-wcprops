@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repository/!svn/ver/294240/pecl/wincache/trunk/tests/php_5_3
+END
+wincache_base3.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repository/!svn/ver/294232/pecl/wincache/trunk/tests/php_5_3/wincache_base3.php
+END
+wincache3.out.txt
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repository/!svn/ver/294232/pecl/wincache/trunk/tests/php_5_3/wincache3.out.txt
+END
+wincache_base8.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repository/!svn/ver/294232/pecl/wincache/trunk/tests/php_5_3/wincache_base8.php
+END
+wincache3.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repository/!svn/ver/294232/pecl/wincache/trunk/tests/php_5_3/wincache3.php
+END
+wincache6.out.txt
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repository/!svn/ver/294232/pecl/wincache/trunk/tests/php_5_3/wincache6.out.txt
+END
+wincache8.out.txt
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repository/!svn/ver/294232/pecl/wincache/trunk/tests/php_5_3/wincache8.out.txt
+END
+wincache6.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repository/!svn/ver/294232/pecl/wincache/trunk/tests/php_5_3/wincache6.php
+END
+wincache8.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repository/!svn/ver/294232/pecl/wincache/trunk/tests/php_5_3/wincache8.php
+END
+common.inc
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repository/!svn/ver/294240/pecl/wincache/trunk/tests/php_5_3/common.inc
+END
+wincache_base11.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repository/!svn/ver/294232/pecl/wincache/trunk/tests/php_5_3/wincache_base11.php
+END
+wincache12.out.txt
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repository/!svn/ver/294232/pecl/wincache/trunk/tests/php_5_3/wincache12.out.txt
+END
+wincache13.out.txt
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repository/!svn/ver/294232/pecl/wincache/trunk/tests/php_5_3/wincache13.out.txt
+END
+wincache11.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repository/!svn/ver/294232/pecl/wincache/trunk/tests/php_5_3/wincache11.php
+END
+wincache14.out.txt
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repository/!svn/ver/294232/pecl/wincache/trunk/tests/php_5_3/wincache14.out.txt
+END
+wincache12.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repository/!svn/ver/294232/pecl/wincache/trunk/tests/php_5_3/wincache12.php
+END
+wincache13.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repository/!svn/ver/294232/pecl/wincache/trunk/tests/php_5_3/wincache13.php
+END
+wincache14.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repository/!svn/ver/294232/pecl/wincache/trunk/tests/php_5_3/wincache14.php
+END

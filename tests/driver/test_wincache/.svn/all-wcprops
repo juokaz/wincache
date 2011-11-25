@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repository/!svn/ver/294239/pecl/wincache/trunk/tests/driver/test_wincache
+END
+stdafx.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repository/!svn/ver/294239/pecl/wincache/trunk/tests/driver/test_wincache/stdafx.h
+END
+test_wincache.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repository/!svn/ver/294239/pecl/wincache/trunk/tests/driver/test_wincache/test_wincache.cpp
+END
+test_wincache.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repository/!svn/ver/294232/pecl/wincache/trunk/tests/driver/test_wincache/test_wincache.vcproj
+END
+test_wincache.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repository/!svn/ver/294239/pecl/wincache/trunk/tests/driver/test_wincache/test_wincache.h
+END
+targetver.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repository/!svn/ver/294239/pecl/wincache/trunk/tests/driver/test_wincache/targetver.h
+END
+stdafx.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repository/!svn/ver/294239/pecl/wincache/trunk/tests/driver/test_wincache/stdafx.cpp
+END
+ReadMe.txt
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repository/!svn/ver/294232/pecl/wincache/trunk/tests/driver/test_wincache/ReadMe.txt
+END

@@ -1,0 +1,245 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/repository/!svn/ver/310870/pecl/wincache/trunk
+END
+wincache_lock.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repository/!svn/ver/310870/pecl/wincache/trunk/wincache_lock.h
+END
+wincache_alloc.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repository/!svn/ver/297537/pecl/wincache/trunk/wincache_alloc.h
+END
+wincache_utils.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repository/!svn/ver/310870/pecl/wincache/trunk/wincache_utils.c
+END
+wincache_aplist.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repository/!svn/ver/305197/pecl/wincache/trunk/wincache_aplist.h
+END
+wincache_utils.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repository/!svn/ver/305197/pecl/wincache/trunk/wincache_utils.h
+END
+package.xml
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/repository/!svn/ver/310870/pecl/wincache/trunk/package.xml
+END
+wincache_opcopy.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repository/!svn/ver/300150/pecl/wincache/trunk/wincache_opcopy.c
+END
+precomp.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/repository/!svn/ver/310611/pecl/wincache/trunk/precomp.h
+END
+wincache_filemap.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repository/!svn/ver/310870/pecl/wincache/trunk/wincache_filemap.c
+END
+wincache_opcopy.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repository/!svn/ver/295192/pecl/wincache/trunk/wincache_opcopy.h
+END
+wincache_fcnotify.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repository/!svn/ver/310870/pecl/wincache/trunk/wincache_fcnotify.c
+END
+wincache_ocache.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repository/!svn/ver/297537/pecl/wincache/trunk/wincache_ocache.c
+END
+wincache_filemap.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repository/!svn/ver/310870/pecl/wincache/trunk/wincache_filemap.h
+END
+wincache_zvcache.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repository/!svn/ver/298391/pecl/wincache/trunk/wincache_zvcache.c
+END
+INSTALL
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/repository/!svn/ver/290634/pecl/wincache/trunk/INSTALL
+END
+wincache_detours.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repository/!svn/ver/300150/pecl/wincache/trunk/wincache_detours.c
+END
+wincache_fcnotify.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repository/!svn/ver/310611/pecl/wincache/trunk/wincache_fcnotify.h
+END
+wincache_debug.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repository/!svn/ver/296892/pecl/wincache/trunk/wincache_debug.c
+END
+wincache_ocache.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repository/!svn/ver/297537/pecl/wincache/trunk/wincache_ocache.h
+END
+wincache_zvcache.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repository/!svn/ver/297537/pecl/wincache/trunk/wincache_zvcache.h
+END
+wincache_error.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repository/!svn/ver/290664/pecl/wincache/trunk/wincache_error.c
+END
+wincache_detours.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repository/!svn/ver/300150/pecl/wincache/trunk/wincache_detours.h
+END
+wincache_debug.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repository/!svn/ver/296892/pecl/wincache/trunk/wincache_debug.h
+END
+config.w32
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/repository/!svn/ver/309891/pecl/wincache/trunk/config.w32
+END
+wincache_error.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repository/!svn/ver/303742/pecl/wincache/trunk/wincache_error.h
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/repository/!svn/ver/290664/pecl/wincache/trunk/LICENSE
+END
+wincache_fcache.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repository/!svn/ver/300150/pecl/wincache/trunk/wincache_fcache.c
+END
+wincache_rplist.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repository/!svn/ver/305197/pecl/wincache/trunk/wincache_rplist.c
+END
+wincache_fcache.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repository/!svn/ver/300150/pecl/wincache/trunk/wincache_fcache.h
+END
+reroute.ini
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/repository/!svn/ver/305197/pecl/wincache/trunk/reroute.ini
+END
+wincache_rplist.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repository/!svn/ver/305197/pecl/wincache/trunk/wincache_rplist.h
+END
+wincache_session.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repository/!svn/ver/297970/pecl/wincache/trunk/wincache_session.c
+END
+wincache.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repository/!svn/ver/300832/pecl/wincache/trunk/wincache.php
+END
+php_wincache.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repository/!svn/ver/310611/pecl/wincache/trunk/php_wincache.c
+END
+wincache_lock.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repository/!svn/ver/310611/pecl/wincache/trunk/wincache_lock.c
+END
+wincache_session.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repository/!svn/ver/295192/pecl/wincache/trunk/wincache_session.h
+END
+wincache_alloc.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repository/!svn/ver/297537/pecl/wincache/trunk/wincache_alloc.c
+END
+php_wincache.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repository/!svn/ver/309860/pecl/wincache/trunk/php_wincache.h
+END
+template.rc
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/repository/!svn/ver/310611/pecl/wincache/trunk/template.rc
+END
+wincache_aplist.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repository/!svn/ver/305197/pecl/wincache/trunk/wincache_aplist.c
+END
